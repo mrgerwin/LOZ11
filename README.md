@@ -3,8 +3,8 @@ Interacting with Items
 
 There is a bug fix in game1.8.1.py.  I would suggest using that file for the bug fix.  Then watch the video programming with your pygame_functions file from last time.  If you get stuck, 1.9 is the complete code from the video.
 
-Video - YouTube - https://youtu.be/NBmzs2c9e-I
-Video - EdPuzzle - https://edpuzzle.com/media/5f204ce0a06b593f23dbf56e
+Video - YouTube - https://youtu.be/NBmzs2c9e-I  
+Video - EdPuzzle - https://edpuzzle.com/media/5f204ce0a06b593f23dbf56e  
 
 Extensions:  
 1. Use the three sound files to make appropriate sounds when link collects items:  
